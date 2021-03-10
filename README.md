@@ -1,6 +1,9 @@
 # ⚠️ Avant de commencer ! 
+
 👉 Forker ce repo et travaillez sur votre repo personnel.
+
 👉 Vous pourrez répondre aux questionssur le fichier Readme.md directement sur votre fork.
+
 👉 Travaillez sur la branche que vous voulez.
 
 # Application de gestion des fournisseurs d'un site ecommerce.
