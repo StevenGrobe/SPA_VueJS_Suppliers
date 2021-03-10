@@ -1,3 +1,8 @@
+# ⚠️ Avant de commencer ! 
+👉 Forker ce repo et travaillez sur votre repo personnel.
+👉 Vous pourrez répondre aux questionssur le fichier Readme.md directement sur votre fork.
+👉 Travaillez sur la branche que vous voulez.
+
 # Application de gestion des fournisseurs d'un site ecommerce.
 
 Vous êtes le gérant d'un site ecommerce, ce site vend un produit unique : de la [spiruline](https://fr.wikipedia.org/wiki/Spiruline_%28compl%C3%A9ment_alimentaire%29). Afin de gérer vos stocks, vous souhaitez créer une application permettant de :
