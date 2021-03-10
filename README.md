@@ -29,9 +29,9 @@ npm install --global @vue/cli
 
 **Question :** Rappelez ce qu'est npm et pourquoi nous utilisons l'option `--global` ?
 
-**Votre réponse :**
+**Votre réponse :** npm est le gestionnaire de paquets officiel de Node.js, 
 
-Vérfier que la version de Vue CLI installée est au moins la version 3 :
+Vérfier que la version de Vue CLI installée est au moins la version 3 : @vue/cli 4.5.11
 
 ```
 vue --version
@@ -49,13 +49,13 @@ Si des questions vous sont posées, choisissez les options par défaut.
 
 **Question :** Quels sont les bons réflexes à avoir quand vous téléchargez un nouveau projet ? Quels fichiers regarder en priorité ?
 
-**Votre réponse :**
+**Votre réponse :** regarder le fichier readme.md et l'architecture des dossiers et de leurs contenu
 
 Avant même de commencer à lancer l'application et sans regarder le code vous pouvez apprendre plein de choses. Prenez cette habitude.
 
 **Question :** Regardez le fichier `README.md`, quelle est la commande que nous allons utiliser pour travailler le projet ?
 
-**Votre réponse :**
+**Votre réponse :** npm serve
 
 - Lancez le projet.
 
